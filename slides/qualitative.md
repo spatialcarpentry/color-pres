@@ -1,2 +1,2 @@
 # Qualitative
-![Qualitative color scheme](qual.gif)
+![Qualitative color scheme](http://storm-is-brewing.com/img/bootcamp/qual.gif)
